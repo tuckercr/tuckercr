@@ -1,5 +1,3 @@
-# Colin Tucker
-
 Senior Android engineer with 20+ years of experience shipping apps at scale. Based in Knoxville, TN.
 
 I work primarily in Kotlin and Jetpack Compose, with a focus on clean architecture, CI/CD, and build reliability.
