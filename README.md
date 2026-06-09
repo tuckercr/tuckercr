@@ -2,6 +2,8 @@ Senior Android engineer with 20+ years of experience shipping apps at scale. Bas
 
 I work primarily in Kotlin and Jetpack Compose, with a focus on clean architecture, CI/CD, and build reliability.
 
+I use AI-assisted development tools, including Claude Code and Gemini, as part of my everyday engineering workflow. I use them to move faster on implementation, testing, debugging, documentation, and more, while still applying careful review, and engineering judgment to ensure the final result is clean, efficient and maintainable.
+
 More at **[fangjet.com](https://fangjet.com)**
 
 ---
