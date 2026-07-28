@@ -1,17 +1,17 @@
-Senior Android engineer with 20+ years of experience shipping apps at scale. Based in Knoxville, TN.
+Senior Android Engineer — Kotlin, Jetpack Compose, and 20+ years building production software. Based in Knoxville, TN.
 
-I work primarily in Kotlin and Jetpack Compose, with a focus on clean architecture, CI/CD, and build reliability.
+Currently building **EasyLink**: an accessibility-focused Android launcher for older adults and the visually impaired, plus a caregiver companion app that sets it up and watches over it remotely — along with [easylinkcare.com](https://easylinkcare.com), deployed from the same repo.
 
-I use AI-assisted development tools, including Claude Code and Gemini, as part of my everyday engineering workflow. I use them to move faster on implementation, testing, debugging, documentation, and more, while still applying careful review, and engineering judgment to ensure the final result is clean, efficient and maintainable.
+I use AI-assisted tooling such as Claude Code and Gemini daily for implementation, testing, and debugging, held to the same standard as anything else I ship.
 
-More at **[fangjet.com](https://fangjet.com)**
+More at [fangjet.com](https://www.fangjet.com) · [LinkedIn](https://www.linkedin.com/in/colin-r-tucker/)
 
 ---
 
-## Project Highlights
+### Projects
 
-**[EZ Launcher](https://github.com/tuckercr/ez-launcher)** — Accessibility-focused Android home screen for elderly and vision-impaired users. SOS emergency alerts, fall detection, medication reminders, speed dial, and a full-screen magnifier. Kotlin, Compose, Hilt, Room, GitHub Actions CI.
+**[EasyLink](https://github.com/tuckercr/easylink)** — Two-app accessibility product. A Compose launcher with large touch targets, hold-to-activate SOS, fall detection and medication reminders; a caregiver app that pairs with a 6-digit code and manages the phone remotely. Multi-module Kotlin · Firebase Auth/Firestore/Remote Config · 260+ unit tests · GitHub Actions CI.
 
-**[ZamZow](https://github.com/tuckercr/wakewordapp)** — On-device wake word detection for Android using PocketSphinx. No cloud, no network dependency. Originally built to help hearing-impaired users notice when they're being addressed. Foreground audio service, configurable sensitivity.
+**Cats & Dogs** — A weather app built natively twice: [Android](https://github.com/tuckercr/cats-dogs) (Kotlin/Compose) and [iOS](https://github.com/tuckercr/cats-dogs-iOS) (Swift/SwiftUI). Swipeable saved cities, multi-day forecasts, embedded radar, and daily briefings scheduled with WorkManager. Offline-first — per-city caching paints instantly and refreshes in the background · MVVM + Hilt · Material 3 · Firebase Analytics/Remote Config.
 
-**[Cats & Dogs](https://github.com/tuckercr/cats-dogs)** — Weather app with city search, autocomplete, current conditions, and 5-day forecast. Built for both [Android](https://github.com/tuckercr/cats-dogs) (Kotlin/Compose/Retrofit) and [iOS](https://github.com/tuckercr/cats-dogs-iOS) (Swift). GitHub Actions CI on both.
+**[ZamZow](https://github.com/tuckercr/wakewordapp)** — On-device wake-word detection using PocketSphinx: no cloud, no network dependency. An earlier proof-of-concept, built to help hearing-impaired users notice when they're being addressed.
