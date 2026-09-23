@@ -11,7 +11,7 @@ Public Projects
 
 **[Cats & Dogs](https://github.com/tuckercr/cats-dogs)**: A weather app built natively twice, for [Android](https://github.com/tuckercr/cats-dogs) (Kotlin/Compose) and [iOS](https://github.com/tuckercr/cats-dogs-iOS) (Swift/SwiftUI). Swipeable saved cities, one-tap current location, multi-day forecasts with tappable day details, animated radar, and scheduled daily briefings. Per-city caching paints instantly and refreshes in the background, falling back to cached data when the network fails. The iOS app has recently caught up with Android on settings, radar, notifications, and background refresh, and now shows sunrise and sunset in each city's own time zone. Offline-first · MVVM + Hilt · WorkManager · Material 3 · Firebase Analytics/Remote Config/Crashlytics · GitHub Actions CI.
 
-**[ZamZow](https://github.com/tuckercr/wakewordapp)**: On-device wake-word detection using PocketSphinx, with no cloud and no network dependency. An earlier proof-of-concept, built to help hearing-impaired users notice when they're being addressed, and my most starred and forked project.
+**[Hark](https://github.com/tuckercr/wakewordapp)**: On-device wake-word detection using PocketSphinx, with no cloud and no network dependency. An earlier proof-of-concept, built to help hearing-impaired users notice when they're being addressed, and my most starred and forked project.
 
 
 Client & Private Work
